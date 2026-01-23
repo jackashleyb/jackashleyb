@@ -1,6 +1,6 @@
-## Hi there 👍🏻🇬🇧
+## Hi, I'm Jack 👍🏻🇬🇧
 
-I’m Jack, a Cybersecurity student studying a BSc in Cybersecurity. I’m completing my undergraduate degree at the University of West London, based in leafy Ealing 🍃
+A Cybersecurity student studying a BSc in Cybersecurity. I’m completing my undergraduate degree at the University of West London, based in leafy Ealing 🍃
 
 Some of the modules I’ve already completed include:
 - Object-Oriented Programming (Java)
