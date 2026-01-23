@@ -7,6 +7,5 @@ Object-Oriented Programming (Java)
 Mathematics for Computing
 Algorithms and Data Types (Python)
 
-
-I’m also really interested in Cloud Computing and how internet infrastructure is maintained and secured end to end. Alongside my undergraduate degree, I’ve taken part in several AWS Education programmes, including an in-person Cloud Foundations course and Cloud 101 through AWS Educate. I’m currently involved in the AWS Emerging Talent Community.
+Alongside my undergraduate degree, I’ve taken part in several AWS Education programmes, including an in-person Cloud Foundations course and Cloud 101 through AWS Educate. I’m currently involved in the AWS Emerging Talent Community.
 Cloud security is at the forefront of my interests as I continue my studies and work towards the AWS Certified Cloud Practitioner exam.
