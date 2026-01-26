@@ -10,8 +10,3 @@ Some of the modules I’ve already completed include:
 Alongside my undergraduate degree, I’ve taken part in several AWS Education programmes, including an in-person Cloud Foundations course and Online Cloud 101. I’m also currently involved in the AWS Emerging Talent Community.
 Cloud security is at the forefront of my interests as I continue my studies and work towards the AWS Certified Cloud Practitioner exam.
 
-
-
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
