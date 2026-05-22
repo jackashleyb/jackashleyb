@@ -9,6 +9,7 @@ Some of the modules I’ve already completed include:
 - Cybersecurity in Society
 - Information Systems & Databases
 - Computer Architecture
+- Artificial Intelligence
 
 Alongside my undergraduate degree, I’ve taken part in several AWS Education programmes, including an in-person Cloud Foundations course and Online Cloud 101. I’m also currently involved in the AWS Emerging Talent Community.
 
