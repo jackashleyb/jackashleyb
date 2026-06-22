@@ -1,4 +1,4 @@
-## Hi, I'm Jack 👍🏻
+## Hi, I'm Jack 🇬🇧
 
 A Cybersecurity student studying a BSc in Cybersecurity. I’m completing my undergraduate degree at the University of West London 🍃
 
