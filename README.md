@@ -1,17 +1,5 @@
 ## Hi, I'm Jack 🇬🇧
 
-A Cybersecurity student studying a BSc in Cybersecurity. I’m completing my undergraduate degree at the University of West London 🍃
+Cybersecurity BSc student focused on cloud security, AI, and secure infrastructure. AWS Academy trained and CompTIA Essentials certified, building practical skills to help secure resilient cloud environments.
 
-Some of the modules I’ve already completed include:
-- Object-Oriented Programming (Java)
-- Mathematics for Computing
-- Algorithms and Data Types (Python)
-- Cybersecurity in Society
-- Information Systems & Databases
-- Computer Architecture
-- Artificial Intelligence
-
-Alongside my undergraduate degree, I’ve taken part in several AWS Education programmes, including an in-person Cloud Foundations course and Online Cloud 101. I’m also currently involved in the AWS Emerging Talent Community.
-
-Cloud security is at the forefront of my interests as I continue my studies and work towards roles within the cloud computing sector. 
-
+Throughout my cybersecurity degree I have completed individual study modules and developed my skills in, Computer Architecture, Information Systems & Databases, Programming, Mathematics for Computing,  Algorithms and Data Types, Cyber Security in Society, Theory of Computation, Artificial Intelligence and Applied Cryptography
